@@ -6,7 +6,7 @@ public class Recherche {
 		int k=0;
 		while (k < tab.length) {
 			if (val == tab[k]) {
-				return k;
+				return k+1;
 			}
 			k++;
 		}
