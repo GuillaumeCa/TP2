@@ -21,12 +21,12 @@ Valeur à tester: 5
 
 La fonction renvoie 5: le programme effectue 5 opérations, il teste chaque valeur du tableau.
 
-    int [] tab3 = {9, 8, 7, 6,5,4,3,2,1,0}
+    int [] tab3 = {9,8,7,6,5,4,3,2,1,0}
 Valeur à tester: 9
 
 La fonction renvoie 9: le programme effectue 1 opérations, il teste uniquement la 1ère valeur du tableau.
 
-    int [] tab4 = {9, 8, 7, 6,5,4,3,2,1,0}
+    int [] tab4 = {9,8,7,6,5,4,3,2,1,0}
 Valeur à tester: 5
 
 La fonction renvoie 5: le programme effectue 5 opérations, il teste chaque valeur jusqu'à la 5ème valeur du tableau.
